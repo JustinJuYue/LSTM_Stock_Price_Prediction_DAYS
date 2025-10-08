@@ -1,7 +1,7 @@
 ## Project Overview
 
 The goal of this project is to build and evaluate an LSTM model for time-series forecasting, specifically for stock prices. It includes scripts to download historical data and to train, evaluate, and visualize the model's predictions.
-![Sample_Close_Price_Prediction](Sample_Result/Predicted.png)
+![Sample_Close_Price_Prediction](Sample_Result/predicted.png)
 ![Sample_Training_Loss](Sample_Result/Loss.png)
 
 ## Features
